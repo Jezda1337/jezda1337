@@ -22,7 +22,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  
-  ![Vue](https://camo.githubusercontent.com/08f31db28ab080d240fc5570dfe92a868d279e76a564108f2eee4356ad592a86/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7675652e737667)
+  ![Vue](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png)
 - 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
