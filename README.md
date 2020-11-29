@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Jezda1337/jezda1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
+<!--
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Aditya.</h2>
@@ -77,3 +77,5 @@ Here are some ideas to get you started:
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
+
+-->
