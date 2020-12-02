@@ -5,7 +5,7 @@
   <samp>
     Hey!! I'm Radoje :wave:
     <br><br>
-    I work as a Web :globe_with_meridians: developer!
+    :globe_with_meridians:
   </samp>
 </p>
 
