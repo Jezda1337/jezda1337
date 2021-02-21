@@ -19,9 +19,9 @@
 ### Languages and Tools:
 
 **Web** 
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/html5.svg" />
+<img height="32" width="32" src="https://img.icons8.com/color/96/000000/html-5.png" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/css3.svg" />
-<img  src="https://github.com/Jezda1337/jezda1337/blob/main/js.svg" />
+<img height="32" width="32" src="https://github.com/Jezda1337/jezda1337/blob/main/js.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
 
 **Tools**
