@@ -1,4 +1,5 @@
 ### Hi there, I'm Radoje 👋
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="40%" align="right">
 
 ## I'm a Self-taught Web Developer
 - 🔭 I’m currently looking for internship or junior position for Front-End Web Developer
