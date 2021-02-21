@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/radoje-jezdic-41910217a/">
   <img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:webdevradoje@gmail.com">
-  <img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 <br />
 
@@ -27,3 +27,4 @@
 **Tools**
 <img height="48" width="48" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />
 <img height="48" width="48" src="https://img.icons8.com/color/96/000000/git.png" />
+<img height="48" width="48" src="https://img.icons8.com/fluent/96/000000/adobe-photoshop.png"/>
