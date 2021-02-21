@@ -8,9 +8,10 @@
 - ⚡ Fun fact: I love sports and working out.
 
 ### Connect with me:
-[<img align="left" alt="Nikola Franičević | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="webdevradoje@gmail.com" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />]
-
+<p align="center">
+<a href="https://www.linkedin.com/in/radoje-jezdic-41910217a/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:webdevradoje@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+</p>
 <br />
 
 ### Languages and Tools:
@@ -19,5 +20,5 @@
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/html5.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/javascript.png" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/javascript.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
