@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love sports and working out.
 
 ### Connect with me:
-[<img align="left" alt="Nikola Franičević | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="webdevradoje@gmail.com" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Nikola Franičević | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="webdevradoje@gmail.com" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />]
 
 <br />
 
