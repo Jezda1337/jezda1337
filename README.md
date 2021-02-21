@@ -10,7 +10,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/radoje-jezdic-41910217a/">
-  <img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" ald="LinkedIn"/></a> &nbsp; &nbsp;
 <a href="mailto:webdevradoje@gmail.com">
   <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
