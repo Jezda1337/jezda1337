@@ -19,8 +19,11 @@
 ### Languages and Tools:
 
 **Web** 
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/html5.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/css3.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/javascript.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
+
+**Tools**
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
