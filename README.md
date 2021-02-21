@@ -1,4 +1,5 @@
 ### Hi there, I'm Radoje 👋
+
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="40%" align="right">
 
 ## I'm a Self-taught Web Developer
@@ -16,6 +17,8 @@
   <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 <br />
+
+<img src="https://media.giphy.com/media/M4ecx9P2jI4tq/giphy.gif" width="40%" align="right" />
 
 ### Languages and Tools:
 
