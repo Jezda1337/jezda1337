@@ -19,11 +19,11 @@
 ### Languages and Tools:
 
 **Web** 
-<img  src="https://img.icons8.com/color/96/000000/html-5.png" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/css3.svg" />
-<img height="32" width="32" src="https://github.com/Jezda1337/jezda1337/blob/main/js.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
+<img height="48" width="48"  src="https://img.icons8.com/color/96/000000/html-5.png" />
+<img height="48" width="48" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="48" width="48" src="https://img.icons8.com/color/96/000000/javascript.png" />
+<img height="48" width="48" src="https://img.icons8.com/color/96/000000/nodejs.png" />
 
 **Tools**
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
+<img height="48" width="48" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />
+<img height="48" width="48" src="https://img.icons8.com/color/96/000000/git.png" />
