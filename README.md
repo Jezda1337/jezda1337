@@ -1,19 +1,23 @@
+### Hi there, I'm Radoje 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="40%" align="right">
-  <br><br>
-  <samp>
-    Hey!! I'm Radoje :wave:
-    <br><br>
-    :globe_with_meridians:
-  </samp>
-</p>
+## I'm a Self-taught Web Developer
+- 🔭 I’m currently looking for internship or junior position for Front-End Web Developer
+- 🌱 I’m currently learning advenced JS 😎
+- 🤝 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Publish more JS project on gitHub, learn Node.JS
+- ⚡ Fun fact: I love sports and working out.
 
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
+### Connect with me:
+[<img align="left" alt="https://www.linkedin.com/in/radoje-jezdic/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="webdevradoje@gmail.com" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />][gmail]
 
-<p align="center">
-<a href="https://www.linkedin.com/in/radoje-jezdic-41910217a/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:webdevradoje@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-</p>
+<br />
+
+### Languages and Tools:
+
+**Web** 
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/html5.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/javascript.png" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
