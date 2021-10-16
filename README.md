@@ -6,7 +6,7 @@
 - 🔭 I’m currently looking for internship or junior position for Front-End Web Developer
 - 🌱 I’m currently learning advenced JS 😎
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Publish more JS project on gitHub, learn Node.JS
+- 🥅 2021 Goals: Publish more JS project on gitHub, learn <span style="text-decoration: line-through;">Node.JS</span> TypeScript
 - ⚡ Fun fact: I love sports and working out.
 
 ### Connect with me:
