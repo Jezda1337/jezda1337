@@ -39,6 +39,9 @@
 <img height="48" width="48" src="https://img.icons8.com/color/50/000000/nodejs.png"/>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 <div>
 
   <img height="48" width="48" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />
