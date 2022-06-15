@@ -27,32 +27,6 @@
 
 ### Languages && Tools:
 <br/>
- 
-<div>
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/html-5.png" />
-<img height="48" width="48" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/sass.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/javascript.png" />
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/angularjs.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/react-native.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/vue-js.png" />
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/nodejs.png"/>
-</div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,angular,react,vue,nodejs,reactivex,go,git,neovim,vscode,linux)](https://skillicons.dev)
 
-
-<div>
-
-  <img height="48" width="48" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" />
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/git.png" />
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/adobe-illustrator--v1.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/figma--v1.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/npm.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/50/000000/linux--v1.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/jira.png"/>
-<img height="48" width="48" src="https://img.icons8.com/color/96/000000/bitbucket.png"/>
-
-
-</div>
