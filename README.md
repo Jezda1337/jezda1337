@@ -1,9 +1,14 @@
+<div style="display:flex; align-items: center">
+
+
+<img style="order:2; margin-left:0px;" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" max-width="40%">
+
+<div style="width:100%;">
+
 ### Hi there, I'm Radoje 👋
 
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="40%" align="right">
-
 ## I'm a Self-taught Web Developer
-- 🔭 I’m currently looking for internship or junior position for Front-End Web Developer
+- 🔭 I’m currently looking for internship or junior position <br>for Front-End Web Developer
 - 🌱 I’m currently learning advenced JS 😎
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Publish more JS project on gitHub
@@ -13,6 +18,8 @@
     - [x] <s>TypeScript</s>
     - [ ] Golang
 - ⚡ Fun fact: I love sports and working out.
+</div>
+</div>
 
 ### Connect with me:
 <p align="left">
@@ -23,10 +30,16 @@
 </p>
 <br />
 
-<img src="https://media.giphy.com/media/M4ecx9P2jI4tq/giphy.gif" width="40%" align="right" />
 
-### Languages && Tools:
-<br/>
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,typescript,reactivex)](https://skillicons.dev)</br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,angular,react,vue,nodejs,reactivex,go,git,neovim,vscode,linux)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,go,lua,postgres,mysql)](https://skillicons.dev)</br>
 
+### Other tools
+[![My Skills](https://skillicons.dev/icons?i=git,linux,github,figma,tailwind,ps,ai,materialui,)](https://skillicons.dev)</br>
+
+### TextEditor || IDE
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim)](https://skillicons.dev)</br>
