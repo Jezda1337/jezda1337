@@ -1,8 +1,7 @@
 <div style="display:flex; align-items: center">
 
 
-<img style="order:2; margin-left:0px;" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" max-width="40%">
-
+<!-- <img style="order:2; margin-left:0px;" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" max-width="40%"> -->
 <div style="width:100%;">
 
 ### Hi there, I'm Radoje 👋
