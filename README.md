@@ -4,29 +4,35 @@
 <!-- <img style="order:2; margin-left:0px;" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" max-width="40%"> -->
 <div style="width:100%;">
 
-### Hi there, I'm Radoje 👋
+## Hi there, I'm Radoje <span>👋</sapn>
 
-## I'm a Self-taught Web Developer
-- 🔭 I’m currently looking for internship or junior position <br>for Front-End Web Developer
-- 🌱 I’m currently learning advenced JS 😎
+### I'm a Self-taught Web Developer
+- 🔭 I’m currently looking full-time job as Web Developer.
+- 📚 I’m currently reading book series "<a href="https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed">You Don't Know JavaScript</a>" 😎
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Publish more JS project on gitHub
+- 🥅 2023 Goals: Publish more JS project on gitHub
   - Learn new tech:
-    - [x] <s>NodeJS</s>
+    <!-- - [x] <s>NodeJS</s>
     - [x] <s>Express</s>
-    - [x] <s>TypeScript</s>
+    - [x] <s>TypeScript</s> -->
+    - [ ] Lua
     - [ ] Golang
-- ⚡ Fun fact: I love sports and working out.
+- ⚡ Fun fact: I love sports and working out, I'm an extensive fen of Open Source and Linux, and my favorite editor is Neovim.
+
 </div>
 </div>
+<br />
+<br />
 
 ### Connect with me:
-<p align="left">
+<div align="left">
 <a href="https://www.linkedin.com/in/radoje-jezdic-41910217a/">
   <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" ald="LinkedIn"/></a> &nbsp; &nbsp;
-<a href="mailto:webdevradoje@gmail.com">
+<a href="mailto:hello@radoje.dev">
   <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a> &nbsp; &nbsp;
-</p>
+<a href="https://radoje.dev">
+  <img src="https://img.icons8.com/bubbles/50/000000/globe.png" alt="Portfolio"></a> &nbsp; &nbsp;
+</div>
 <br />
 
 
@@ -35,7 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,react,vue,typescript,reactivex)](https://skillicons.dev)</br>
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,go,lua,postgres,mysql)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql)](https://skillicons.dev)</br>
 
 ### Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,linux,github,figma,tailwind,ps,ai,materialui,)](https://skillicons.dev)</br>
