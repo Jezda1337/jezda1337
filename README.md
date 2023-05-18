@@ -17,7 +17,7 @@
     - [x] <s>TypeScript</s> -->
     - [ ] Lua
     - [ ] Golang
-- ⚡ Fun fact: I love sports and working out, I'm an extensive fen of Open Source and Linux, and my favorite editor is Neovim.
+- ⚡ Fun fact: I love sports and working out, I'm an extensive fan of Open Source and Linux, and my favorite editor is Neovim.
 
 </div>
 </div>
