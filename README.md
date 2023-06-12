@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Jezda1337&label=PROFILE+VIEWS&style=for-the-badge	)
 <div style="display:flex; align-items: center">
 
 
