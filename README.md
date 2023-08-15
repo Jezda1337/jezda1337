@@ -16,8 +16,8 @@
     <!-- - [x] <s>NodeJS</s>
     - [x] <s>Express</s>
     - [x] <s>TypeScript</s> -->
-    - [ ] Lua
-    - [ ] Golang
+    - [x] Lua
+    - [x] Golang
 - ⚡ Fun fact: I love sports and working out, I'm an extensive fan of Open Source and Linux, and my favorite editor is Neovim.
 
 </div>
